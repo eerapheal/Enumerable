@@ -1,4 +1,4 @@
-require './data_enumerable'
+require_relative './data_enumerable'
 
 class MyList
   def initialize(list)
